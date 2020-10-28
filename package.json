@@ -1,5 +1,6 @@
 {
-  "name": "nodejs-helm",
+  "name": "@codeanker/nodejs-helm",
+  "author": "CODEANKER GmbH",
   "version": "0.3.0",
   "description": "Node helm created for javascript developers that works with helm.sh package manager for Kubernetes.",
   "main": "index.js",
